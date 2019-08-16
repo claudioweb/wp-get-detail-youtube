@@ -1,0 +1,12 @@
+{
+    "name": "root/detail-yt",
+    "authors": [
+        {
+            "name": "Claudio Campos",
+            "email": "contato@claudioweb.com.br"
+        }
+    ],
+    "require": {
+        "google/apiclient": "~2.0"
+    }
+}
